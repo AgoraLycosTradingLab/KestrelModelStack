@@ -1,0 +1,13 @@
+In order to run the Kestrel Model you must have all of these files in your folder:
+config.py
+layer1_macro_gate.py
+layer2_factor_engine.py
+layer3_signal_aggregator.py
+layer4_risk_sizing.py
+layer5_execution_report.py
+sp500_master.csv
+nasdaq_master.csv
+
+First run config.py
+Then run run_kestrel.py
+
