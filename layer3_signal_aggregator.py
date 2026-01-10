@@ -1,3 +1,15 @@
+"""
+DISCLAIMER:
+This code is provided for educational and research purposes only.
+It does not constitute financial advice, investment advice,
+trading advice, or a recommendation to buy or sell any security.
+
+Agora Lycos Trading Lab makes no guarantees regarding accuracy,
+performance, or profitability. Use at your own risk.
+Past performance is not indicative of future results.
+"""
+
+
 # layer3_signal_aggregator.py
 from __future__ import annotations
 
