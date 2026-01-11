@@ -7,6 +7,7 @@ Agora Lycos Trading Lab is a research-focused entity. All content reflects resea
 No representation is made regarding the accuracy, completeness, or suitability of the information provided. Use of any information is at your own risk.
 """"""
 
+
 The Kestrel Model Stack is a fully integrated, end-to-end systematic trading pipeline that converts macro conditions into executable portfolio orders through five disciplined layers:
 
 Layer 1 – Macro Regime Gate
